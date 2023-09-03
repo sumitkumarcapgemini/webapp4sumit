@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webapp4sumit.props" />
+</Project>
